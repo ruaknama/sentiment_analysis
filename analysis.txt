@@ -1,0 +1,3 @@
+1. Upon graphing 100 recent tweets from each news outlet twitter it was clear that CBS tweets very positively. You can observe the blue dots above the 0 reflecting my observation.
+2. Our first observation gets confirmed once graphing the avg sentiment for the recent 100 tweets for each news outlet. CBS is by far the most positive.
+3. NY Times is the most negative, which BBC World News, CNN & Fox News are more neutral.
